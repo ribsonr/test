@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Apple",
+    "type": "fruit",
+    "description": "A sweet and crisp fruit, commonly red, green, or yellow, and often eaten raw or used in desserts."
+  },
+  {
+    "name": "Carrot",
+    "type": "vegetable",
+    "description": "A crunchy, orange root vegetable, often used in salads, soups, and stews."
+  },
+  {
+    "name": "Almond",
+    "type": "nut",
+    "description": "A small, brown-skinned nut with a creamy texture, often used in snacks and baking."
+  },
+  {
+    "name": "Strawberry",
+    "type": "fruit",
+    "description": "A juicy, red fruit with tiny seeds on the surface, known for its sweet flavor."
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "description": "A leafy green vegetable rich in iron, often used in salads, smoothies, and cooked dishes."
+  },
+  {
+    "name": "Walnut",
+    "type": "nut",
+    "description": "A brain-shaped nut with a rich, earthy flavor, commonly used in baking and snacks."
+  },
+  {
+    "name": "Banana",
+    "type": "fruit",
+    "description": "A soft, sweet fruit with a yellow peel, commonly eaten as a quick snack."
+  },
+  {
+    "name": "Carrot",
+    "type": "vegetable",
+    "description": "A crunchy, orange root vegetable, often used in salads, soups, and stews."
+  },
+  {
+    "name": "Broccoli",
+    "type": "vegetable",
+    "description": "A green vegetable with a tree-like structure, rich in vitamins and minerals, often steamed or stir-fried."
+  },
+  {
+    "name": "Cashew",
+    "type": "nut",
+    "description": "A kidney-shaped nut with a creamy texture, popular in cooking and as a snack."
+  },
+  {
+    "name": "Blueberry",
+    "type": "fruit",
+    "description": "A small, round fruit with a deep blue color and a sweet-tart flavor, often used in desserts and smoothies."
+  },
+  {
+    "name": "Potato",
+    "type": "vegetable",
+    "description": "A starchy tuber that can be baked, fried, or mashed, and is a staple in many cuisines."
+  },
+  {
+    "name": "Pecan",
+    "type": "nut",
+    "description": "A rich, buttery-flavored nut, commonly used in pies and desserts."
+  },
+  {
+    "name": "Orange",
+    "type": "fruit",
+    "description": "A juicy citrus fruit with a bright orange peel and a tangy-sweet flavor."
+  },
+  {
+    "name": "Tomato",
+    "type": "vegetable",
+    "description": "A versatile red fruit often used as a vegetable in cooking, known for its juicy texture and tangy taste."
+  },
+  {
+    "name": "Hazelnut",
+    "type": "nut",
+    "description": "A round nut with a rich, sweet flavor, often used in spreads and confectionery."
+  },
+  {
+    "name": "Almond",
+    "type": "nut",
+    "description": "A small, brown-skinned nut with a creamy texture, often used in snacks and baking."
+  },
+  {
+    "name": "Spinach",
+    "type": "vegetable",
+    "description": "A leafy green vegetable rich in iron, often used in salads, smoothies, and cooked dishes."
+  },
+  {
+    "name": "Blueberry",
+    "type": "fruit",
+    "description": "A small, round fruit with a deep blue color and a sweet-tart flavor, often used in desserts and smoothies."
+  }
+]
